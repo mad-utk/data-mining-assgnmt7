@@ -21,5 +21,6 @@ Google Colab Workbook -
 Kaggle Cinema Tickets Dataset -
 <a target="_blank" href="https://www.kaggle.com/datasets/arashnic/cinema-ticket"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Dataset">
 
-Google Colab Workbook - 
-[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e-EtboixUBLzfIhxD4RAdfJi6iyAkdP9?usp=sharing)
+Databricks Notebook - 
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3990648197432166/1918488605067787/3843731808845093/latest.html
