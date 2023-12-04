@@ -16,10 +16,10 @@ Kaggle Cinema Tickets Dataset -
 Google Colab Workbook - 
 [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18MY8Rd2t2N8HwbfaVWE4c3iE6h7YLYqZ?usp=sharing)
 
-## Task 3 - EDA on Spatio-Temporal Detaset
+## Task 3 - Dimensionality Reduction Using Data Bricks
 
-Kaggle Air Pollution Spatio-Temporal Dataset -
-<a target="_blank" href="https://www.kaggle.com/datasets/mayukh18/deap-deciphering-environmental-air-pollution"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Dataset">
+Kaggle Cinema Tickets Dataset -
+<a target="_blank" href="https://www.kaggle.com/datasets/arashnic/cinema-ticket"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Dataset">
 
 Google Colab Workbook - 
-[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zVvA5biJbri8-3mlLHdCPu-HiNzuWBW9?usp=drive_link)
+[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e-EtboixUBLzfIhxD4RAdfJi6iyAkdP9?usp=sharing)
